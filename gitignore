@@ -1,0 +1,42 @@
+# https://hudi.blog/git-submodule/
+
+# 깃
+Git-2.50.1-64-bit.exe
+
+# 노드
+node-v22.17.1-win-x64/
+node-v22.17.1-win-x64.msi
+node_modules/
+
+# JAVA
+jdk-17.0.10_windows-x64_bin.msi
+eclipse-jee-2024-06-R-win32-x86_64.zip
+eclipse/
+
+# DataBase
+OracleXE213_Win64.zip
+OracleXE213_Win64/
+dbms/resourse/dbeaver/
+dbms/resourse/dbeaver-ce-21.3.0-win32.win32.x86_64.zip
+
+# jsp
+jsp/resource/apache-tomcat-9.0.109-windows-x64.zip
+mybatis-3.5.10/
+jsp/workspace/
+## jsp는 워크스페이스 따로 관리
+
+#spring
+ideaIU-2025.2.3.exe
+
+#spring-react
+react/resource/node-v22.20.0-win-x64.zip
+react/resource/node-v22.20.0-win-x64/
+
+# team_project
+SUIT-otf/
+
+#기타 파일
+Notion Setup 4.15.3.exe
+InstallFigmaAgent.exe
+
+tms/송병국.zip
